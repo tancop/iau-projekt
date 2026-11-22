@@ -1,6 +1,6 @@
 {
   "model_type": "RandomForestClassifier",
-  "trained_at": "2026-11-16 16:44",
+  "trained_at": "2026-11-22 17:20",
   "random_state": 20261023,
   "features": [
     "service_hours",
